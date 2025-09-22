@@ -1,0 +1,7 @@
+﻿  ai.cpp
+  board.cpp
+  genetic_algorithm.cpp
+  main.cpp
+  Generating Code...
+D:\VisualStudio\GAFinal_Coletti\main.cpp(9,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GAFinal_Coletti.vcxproj -> D:\VisualStudio\GAFinal_Coletti\x64\Debug\GAFinal_Coletti.exe
